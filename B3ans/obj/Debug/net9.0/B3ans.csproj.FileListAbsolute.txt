@@ -96,3 +96,7 @@ C:\Users\wrath\source\repos\B3ans\B3ans\obj\Debug\net9.0\refint\B3ans.dll
 C:\Users\wrath\source\repos\B3ans\B3ans\obj\Debug\net9.0\B3ans.pdb
 C:\Users\wrath\source\repos\B3ans\B3ans\obj\Debug\net9.0\B3ans.genruntimeconfig.cache
 C:\Users\wrath\source\repos\B3ans\B3ans\obj\Debug\net9.0\ref\B3ans.dll
+C:\Users\wrath\source\repos\B3ans\B3ans\obj\Debug\net9.0\compressed\d2azcl0f6m-dyjx89twm7.gz
+C:\Users\wrath\source\repos\B3ans\B3ans\obj\Debug\net9.0\compressed\ragxxztpc8-dyjx89twm7.gz
+C:\Users\wrath\source\repos\B3ans\B3ans\obj\Debug\net9.0\compressed\cmh6s9eif3-dyjx89twm7.gz
+C:\Users\wrath\source\repos\B3ans\B3ans\obj\Debug\net9.0\compressed\3a787c4us9-3r8b2a0bt1.gz

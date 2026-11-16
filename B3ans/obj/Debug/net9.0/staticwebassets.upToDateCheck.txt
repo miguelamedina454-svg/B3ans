@@ -1,5 +1,9 @@
+wwwroot\css\home.css
+wwwroot\css\product.css
+wwwroot\css\shop.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\js\shop.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -123,3 +127,7 @@ C:\Users\wrath\source\repos\B3ans\B3ans\wwwroot\lib\jquery\dist\jquery.slim.js
 C:\Users\wrath\source\repos\B3ans\B3ans\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\wrath\source\repos\B3ans\B3ans\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\wrath\source\repos\B3ans\B3ans\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\wrath\source\repos\B3ans\B3ans\wwwroot\css\home.css
+C:\Users\wrath\source\repos\B3ans\B3ans\wwwroot\css\product.css
+C:\Users\wrath\source\repos\B3ans\B3ans\wwwroot\css\shop.css
+C:\Users\wrath\source\repos\B3ans\B3ans\wwwroot\js\shop.js
